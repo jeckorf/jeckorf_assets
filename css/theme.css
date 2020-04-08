@@ -2183,6 +2183,7 @@ select.form-control[multiple], select.form-control[size], textarea.form-control 
   font-size: 13px;
   color: #ccc;
   background: #2d2d2d;
+  border-radius: .325rem;
   line-height: $line-height-code-block
 }
 
@@ -12748,8 +12749,9 @@ figcaption {
 }
 
 blockquote {
-  border-radius: .625rem;
-  padding: 3rem
+  border-left: .25em solid #dfe2e5;
+  color: #6a737d;
+  padding: 0 1em;
 }
 
 .col-lg-3 .list-articles img.rounded, .col-lg-4 .list-articles img.rounded {
