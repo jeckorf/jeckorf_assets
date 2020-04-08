@@ -2182,10 +2182,8 @@ select.form-control[multiple], select.form-control[size], textarea.form-control 
   padding: 15px;
   font-size: 13px;
   color: #ccc;
-  background: #2d2d2d;
+  background: #282c34;
   border-radius: .325rem;
-  white-space: pre-wrap;
-  word-wrap: break-word;
   line-height: $line-height-code-block
 }
 
