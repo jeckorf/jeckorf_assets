@@ -1,0 +1,22 @@
+{
+  "name": "jeckorf_assets",
+  "version": "1.0.0",
+  "description": "Jeckorf's Blog assets",
+  "main": "/css/theme.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeckorf/jeckorf_assets.git"
+  },
+  "keywords": [
+    "Jeckorf"
+  ],
+  "author": "Jeckorf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeckorf/jeckorf_assets/issues"
+  },
+  "homepage": "https://github.com/jeckorf/jeckorf_assets#readme"
+}
